@@ -1,0 +1,364 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51986878136@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB066AD18BB99C9F39211',
+    participant: undefined
+  },
+  messageTimestamp: 1714523310,
+  pushName: 'Innova',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Innova',
+  body: 'hola',
+  from: '51986878136'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5d17a0f0-cf79-4d35-8c1e-54924ae70fe3',
+  keyword: 'key_82098792-c652-4d5a-b3f3-46b929a6682d',
+  answer: 'cual es tu numero de dni',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4e335695ace5f41590ee03f45bd3847e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51986878136@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0DDFD64EB59D38E23C9',
+    participant: undefined
+  },
+  messageTimestamp: 1714523315,
+  pushName: 'Innova',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '47163626',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Innova',
+  body: '47163626',
+  from: '51986878136'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51986878136@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB049491EE3631F50780B',
+    participant: undefined
+  },
+  messageTimestamp: 1714523319,
+  pushName: 'Innova',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'si',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Innova',
+  body: 'si',
+  from: '51986878136'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_52f6b43b-4c6c-44d7-abcb-6a6522c730db',
+  keyword: 'key_4ffb77ef-6bff-4a35-910a-62694a8cb83d',
+  answer: 'Realiza el pago de *yape* de *S/5.00* para suscribirte.\n' +
+    '*Numero*: 982752688\n' +
+    '*Titular*:FRANCO ERNESTO CONDORI HUARAYA\n' +
+    'Para verificar el pago ecribe *VERIFICAR*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3006c01b4e518afb38c98e75a694cbe4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51986878136@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A19AAD2091D6E1F285',
+    participant: undefined
+  },
+  messageTimestamp: 1714523325,
+  pushName: 'Innova',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'verificar',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Innova',
+  body: 'verificar',
+  from: '51986878136'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6a6e68d5-ebf7-4b2a-8052-60d9a8a7a43a',
+  keyword: 'key_7219227e-f5a5-4663-a61e-d86df99a1b44',
+  answer: 'escribe el numero de *DNI* con el que se realizo el pago del yape para la verificación',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '763104c9f641d2944f9010c17617797c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51986878136@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB054AD20FF97F4AF058B',
+    participant: undefined
+  },
+  messageTimestamp: 1714523341,
+  pushName: 'Innova',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '47163626',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Innova',
+  body: '47163626',
+  from: '51986878136'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51986878136@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F9A6F060E13CE9800B',
+    participant: undefined
+  },
+  messageTimestamp: 1714523681,
+  pushName: 'Innova',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Innova',
+  body: 'hola',
+  from: '51986878136'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5d17a0f0-cf79-4d35-8c1e-54924ae70fe3',
+  keyword: 'key_82098792-c652-4d5a-b3f3-46b929a6682d',
+  answer: 'cual es tu numero de dni',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4e335695ace5f41590ee03f45bd3847e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51986878136@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB085E204941809EB37F6',
+    participant: undefined
+  },
+  messageTimestamp: 1714523685,
+  pushName: 'Innova',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '46657582',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Innova',
+  body: '46657582',
+  from: '51986878136'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51986878136@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0879A358788565349BC',
+    participant: undefined
+  },
+  messageTimestamp: 1714523694,
+  pushName: 'Innova',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'si',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Innova',
+  body: 'si',
+  from: '51986878136'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_52f6b43b-4c6c-44d7-abcb-6a6522c730db',
+  keyword: 'key_4ffb77ef-6bff-4a35-910a-62694a8cb83d',
+  answer: 'Realiza el pago de *yape* de *S/5.00* para suscribirte.\n' +
+    '*Numero*: 982752688\n' +
+    '*Titular*:FRANCO ERNESTO CONDORI HUARAYA\n' +
+    'Para verificar el pago ecribe *VERIFICAR*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3006c01b4e518afb38c98e75a694cbe4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51986878136@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0109CE7D28E409F8E27',
+    participant: undefined
+  },
+  messageTimestamp: 1714523698,
+  pushName: 'Innova',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'verificar',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Innova',
+  body: 'verificar',
+  from: '51986878136'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6a6e68d5-ebf7-4b2a-8052-60d9a8a7a43a',
+  keyword: 'key_7219227e-f5a5-4663-a61e-d86df99a1b44',
+  answer: 'escribe el numero de *DNI* con el que se realizo el pago del yape para la verificación',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '763104c9f641d2944f9010c17617797c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51986878136@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CF653AFDB5871165BC',
+    participant: undefined
+  },
+  messageTimestamp: 1714523702,
+  pushName: 'Innova',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '46657582',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Innova',
+  body: '46657582',
+  from: '51986878136'
+}
